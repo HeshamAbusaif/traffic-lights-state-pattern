@@ -1,0 +1,13 @@
+{
+    "require": {
+        "sebastian/finder-facade": "*",
+        "theseer/fdomdocument": "*",
+        "phpunit/phpunit": "^5.6",
+        "nesbot/carbon": "^2.23"
+    },
+    "autoload": {
+        "psr-4": {
+            "scratchers\\nstest\\": "src/"
+        }
+    }
+}
